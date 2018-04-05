@@ -87,9 +87,3 @@ dernières tâches au cours du temps.
 
 Ces métriques sont calculées et enregistrées chaque jour pour l’ensemble
 du projet.
-
-N’oubliez pas de lancer chaque jour le calcul statistique
----------------------------------------------------------
-
-Pour générer des données analytique précises, vous devriez lancer chaque
-jour le cronjob **statistiques quotidiennes du projet**.

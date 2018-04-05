@@ -182,8 +182,6 @@ restriction :
 .. figure:: /_static/add_new_restriction.png
    :alt: Ajouter une nouvelle restriction
 
-.. _liste-des-restrictions-1:
-
 3) Liste des restrictions
 '''''''''''''''''''''''''
 
