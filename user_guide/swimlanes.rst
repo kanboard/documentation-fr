@@ -22,7 +22,7 @@ Gestion des swimlanes
 -  Vous pouvez glisser-déposer les tâches d’une swimlane à l’autre.
 
 Pour configurer les swimlanes allez sur la page de **Configuration du
-projet** et choisissez la section **Swimlanes**.
+projet et choisissez la section Swimlanes**.
 
 .. figure:: /_static/swimlane-configuration.png
    :alt: Swimlanes Configuration

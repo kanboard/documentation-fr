@@ -14,4 +14,4 @@ Kanboard est un logiciel libre de gestion de projet qui utilise la méthode Kanb
    :maxdepth: 2
    :caption: Table des matières :
 
-   guide_utilisateur/index
+   user_guide/index
