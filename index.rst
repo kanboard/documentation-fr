@@ -8,7 +8,6 @@ Kanboard est un logiciel libre de gestion de projet qui utilise la méthode Kanb
 - Espace de discussions : https://kanboard.discourse.group/
 - Flux RSS : https://github.com/kanboard/kanboard/releases.atom
 - Mastodon : https://mastodon.social/@kanboard
-- IRC : #kanboard sur Freenode
 
 .. toctree::
    :maxdepth: 2
